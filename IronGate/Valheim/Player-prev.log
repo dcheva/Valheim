@@ -1,0 +1,824 @@
+Mono path[0] = 'D:/Games/Valheim.v0.211.7.Early.Access/valheim_Data/Managed'
+Mono config path = 'D:/Games/Valheim.v0.211.7.Early.Access/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.33f1 (915a7af8b0d5)
+[Subsystems] Discovering subsystems at path D:/Games/Valheim.v0.211.7.Early.Access/valheim_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R7 200 Series (ID=0x6610)
+    Vendor:   
+    VRAM:     1004 MB
+    Driver:   27.20.1034.6
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.086 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initialized touch support.
+UnloadTime: 1.269300 ms
+10/26/2022 20:31:08: Starting to load scene:start
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.559000 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+10/26/2022 20:31:14: Using steam_appid.txt
+10/26/2022 20:31:14: Using steam APPID:480
+10/26/2022 20:31:14: Authentication:k_ESteamNetworkingAvailability_Current
+10/26/2022 20:31:14: Steam initialized, persona:Noob
+10/26/2022 20:31:14: PlayFab custom ID set to "Steam_76561198402789008"
+10/26/2022 20:31:14: Using default prefs
+10/26/2022 20:31:14: Valheim version:0.211.7
+10/26/2022 20:31:14: Render threading mode:MultiThreaded
+10/26/2022 20:31:14: Missing audio clip in music respawn
+10/26/2022 20:31:14: Checking for installed DLCs
+10/26/2022 20:31:14: DLC:beta installed:False
+10/26/2022 20:31:14: Builder started
+10/26/2022 20:31:15: Loaded localization CSV:localization language:English
+10/26/2022 20:31:15: Loaded localization CSV:localization_extra language:English
+10/26/2022 20:31:15: Loaded localization CSV:localization language:Russian
+10/26/2022 20:31:15: Loaded localization CSV:localization_extra language:Russian
+10/26/2022 20:31:16: Ticket is System.Byte[] of length 360
+10/26/2022 20:31:16: Session auth respons callback
+10/26/2022 20:31:16: UI Group status changed Menu = True
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 107712.
+Total: 119.172200 ms (FindLiveObjects: 8.432500 ms CreateObjectMapping: 19.542900 ms MarkObjects: 90.940900 ms  DeleteObjects: 0.255400 ms)
+
+10/26/2022 20:31:17: PlayFab logged in as "Steam_76561198402789008"
+10/26/2022 20:31:17: PlayFab local entity ID is 7CC660BAE21D21CB
+10/26/2022 20:31:18: UI Group status changed Menu = True
+10/26/2022 20:31:34: FOund selected Start game
+10/26/2022 20:31:34: show character selection
+10/26/2022 20:31:38: OnCharacterStart
+10/26/2022 20:31:43: Loading main scene
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.206000 ms
+10/26/2022 20:31:43: Steam initialized, persona:Noob
+10/26/2022 20:31:43: PlayFab custom ID set to "Steam_76561198402789008"
+10/26/2022 20:31:43: Using default prefs
+10/26/2022 20:31:43: Loading player profile dee
+10/26/2022 20:31:43: isModded: False
+10/26/2022 20:31:43: Zonesystem Awake 414
+10/26/2022 20:31:43: DungeonDB Awake 414
+10/26/2022 20:31:43: Steam initialized, persona:Noob
+10/26/2022 20:31:46: Audioman already exist, destroying self
+10/26/2022 20:31:46: Checking for installed DLCs
+10/26/2022 20:31:46: DLC:beta installed:False
+
+Unloading 534 unused Assets to reduce memory usage. Loaded Objects now: 107461.
+Total: 82.835500 ms (FindLiveObjects: 5.083800 ms CreateObjectMapping: 13.401600 ms MarkObjects: 63.388400 ms  DeleteObjects: 0.961000 ms)
+
+10/26/2022 20:31:50: Zonesystem Start 414
+10/26/2022 20:31:50: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+10/26/2022 20:31:50: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+10/26/2022 20:31:50: DungeonDB Start 414
+10/26/2022 20:31:51: Load world: Covan (Covan)
+10/26/2022 20:31:51: Loading 45752 zdos , my id 1231730949 data version:28
+10/26/2022 20:31:51: Loaded 1034 dead zdos
+10/26/2022 20:31:51: Removed 0 OLD generated ZDOS
+10/26/2022 20:31:51: Loaded 7444 locations
+10/26/2022 20:31:51: Starting respawn
+10/26/2022 20:31:51: Session auth respons callback
+10/26/2022 20:31:51: Ticket is System.Byte[] of length 360
+10/26/2022 20:32:00: Unpacking compressed mapdata 8420
+10/26/2022 20:32:00: tip:$loadscreen_tip25
+10/26/2022 20:32:03: Force generaeting hmap (128.0, 0.0, -192.0)
+10/26/2022 20:32:03: Force generaeting hmap (128.0, 0.0, -128.0)
+10/26/2022 20:32:08: Spawned after 8,019994
+10/26/2022 20:32:08: Minimap: Adding unique location (-5.6, 51.1, -1.6)
+10/26/2022 20:32:10: Resumed music meadows at 0
+10/26/2022 20:32:57: Setting selected recipe 0
+10/26/2022 20:32:57: UI Group status changed root = True
+10/26/2022 20:32:57: UI Group status changed Player = True
+10/26/2022 20:33:22: Spawned Greyling x 1
+10/26/2022 20:33:37: Disabling PlayerBase  character_trigger
+10/26/2022 20:33:54: Spawned Deer x 2
+10/26/2022 20:34:04: Placed fire_pit
+10/26/2022 20:34:04: Disabling PlayerBase  character_trigger
+10/26/2022 20:34:04: Disabling PlayerBase  character_trigger
+10/26/2022 20:34:26: Spawned Fish3 x 1
+10/26/2022 20:35:29: Setting selected recipe 0
+10/26/2022 20:35:29: UI Group status changed root = True
+10/26/2022 20:35:29: UI Group status changed Player = True
+10/26/2022 20:35:44: Disabling PlayerBase  character_trigger
+10/26/2022 20:35:48: Setting selected recipe 0
+10/26/2022 20:35:48: UI Group status changed root = True
+10/26/2022 20:35:48: UI Group status changed Player = True
+10/26/2022 20:36:02: Disabling collider_block  blocker
+10/26/2022 20:36:07: Placed piece_cookingstation
+10/26/2022 20:36:07: Disabling collider_block  blocker
+10/26/2022 20:36:09: Setting selected recipe 0
+10/26/2022 20:36:09: UI Group status changed root = True
+10/26/2022 20:36:09: UI Group status changed Player = True
+10/26/2022 20:36:14: Disabling PlayerBase  character_trigger
+10/26/2022 20:36:18: Queue unlock msg:$msg_newstation:$piece_workbench
+10/26/2022 20:36:18: Queue unlock msg:$msg_newrecipe:$item_chest_rags
+10/26/2022 20:36:18: Queue unlock msg:$msg_newrecipe:$item_legs_rags
+10/26/2022 20:36:18: Queue unlock msg:$msg_newrecipe:$item_arrow_wood
+10/26/2022 20:36:18: Queue unlock msg:$msg_newrecipe:$item_bow
+10/26/2022 20:36:18: Queue unlock msg:$msg_newrecipe:$item_helmet_midsummercrown
+10/26/2022 20:36:18: Queue unlock msg:$msg_newrecipe:$item_hoe
+10/26/2022 20:36:18: Queue unlock msg:$msg_newrecipe:$item_shield_wood
+10/26/2022 20:36:18: Queue unlock msg:$msg_newrecipe:$item_shield_woodtower
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodfloor1x1
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodfloor2x2
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodstair
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodstepladder
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodwallquarter
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodwallhalf
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodwall
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodwallroof
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodwallroof_upsidedown
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodwallrooftop
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodwallroof45
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodwallroof45_upsidedown
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodwallrooftop45
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodroof26
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodrooftop
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodroofocorner
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodrooficorner
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodroof45
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodrooftop45
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodroofocorner45
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodrooficorner45
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodpole
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodpole2
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodbeam1
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodbeam2
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodbeam26
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodbeam45
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_wooddoor
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodgate
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_woodfence
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_stakewall
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_bed
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_chestwood
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$piece_groundtorchwood
+10/26/2022 20:36:18: Queue unlock msg:$msg_newpiece:$ship_raft
+10/26/2022 20:36:18: Disabling PlayerBase  character_trigger
+10/26/2022 20:36:18: Placed piece_workbench
+10/26/2022 20:36:18: Disabling PlayerBase  character_trigger
+10/26/2022 20:36:35: Disabling PlayerBase  character_trigger
+10/26/2022 20:37:14: Spawned Fish3 x 1
+10/26/2022 20:37:14: Spawned Greyling x 1
+10/26/2022 20:37:22: Starting respawn
+10/26/2022 20:37:22: Local player destroyed
+10/26/2022 20:37:22: tip:$loadscreen_tip20
+10/26/2022 20:37:32: Stopped music meadows at 4471691
+10/26/2022 20:37:32: Resumed music meadows at 4471691
+10/26/2022 20:37:59: Im still nto the owner
+10/26/2022 20:37:59: Im still nto the owner
+10/26/2022 20:37:59: Im still nto the owner
+10/26/2022 20:37:59: Im finally the owner
+10/26/2022 20:37:59: Setting selected recipe 0
+10/26/2022 20:37:59: UI Group status changed root = True
+10/26/2022 20:37:59: UI Group status changed Player = True
+10/26/2022 20:38:20: Im still nto the owner
+10/26/2022 20:38:20: Im still nto the owner
+10/26/2022 20:38:20: Im still nto the owner
+10/26/2022 20:38:20: Im still nto the owner
+10/26/2022 20:38:21: Im finally the owner
+10/26/2022 20:38:29: Stopped music meadows at 6977982
+10/26/2022 20:38:34: Update PlayFab entity token
+10/26/2022 20:38:35: Valid True
+10/26/2022 20:38:35: On death False
+10/26/2022 20:38:51: Im still nto the owner
+10/26/2022 20:38:51: Im still nto the owner
+10/26/2022 20:38:51: Im still nto the owner
+10/26/2022 20:38:51: Im still nto the owner
+10/26/2022 20:38:51: Im finally the owner
+10/26/2022 20:39:03: Grave should fit in inventory, loot all
+10/26/2022 20:39:03: Player 1231730949 wants to takeall from Player_tombstone(Clone)   im: 1231730949
+10/26/2022 20:39:15: Disabling PlayerBase  character_trigger
+10/26/2022 20:39:32: Setting selected recipe 0
+10/26/2022 20:39:32: UI Group status changed root = True
+10/26/2022 20:39:32: UI Group status changed Player = True
+10/26/2022 20:39:38: Setting selected recipe 0
+10/26/2022 20:39:38: UI Group status changed root = True
+10/26/2022 20:39:38: UI Group status changed Player = True
+10/26/2022 20:39:46: Disabling collider_block  blocker
+10/26/2022 20:40:00: Placed piece_cookingstation
+10/26/2022 20:40:00: Disabling collider_block  blocker
+10/26/2022 20:40:15: Spawned Seagal x 1
+10/26/2022 20:40:22: Spawned Neck x 3
+10/26/2022 20:40:40: Queue unlock msg:$msg_newitem:$item_boar_meat_cooked
+10/26/2022 20:41:53: Im still nto the owner
+10/26/2022 20:41:53: Im still nto the owner
+10/26/2022 20:41:53: Im still nto the owner
+10/26/2022 20:41:53: Im still nto the owner
+10/26/2022 20:41:53: Im still nto the owner
+10/26/2022 20:41:53: Im finally the owner
+10/26/2022 20:41:53: Queue unlock msg:$msg_newmaterial:$item_flint
+10/26/2022 20:41:53: Queue unlock msg:$msg_newrecipe:$item_axe_flint
+10/26/2022 20:41:53: Queue unlock msg:$msg_newrecipe:$item_knife_flint
+10/26/2022 20:41:53: Queue unlock msg:$msg_newrecipe:$item_spear_flint
+10/26/2022 20:41:53: Queue unlock msg:$msg_newpiece:$piece_workbench_ext1
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2911 unused Assets to reduce memory usage. Loaded Objects now: 1407637.
+Total: 576.493000 ms (FindLiveObjects: 121.271200 ms CreateObjectMapping: 35.242900 ms MarkObjects: 408.057100 ms  DeleteObjects: 11.921600 ms)
+
+10/26/2022 20:42:30: Placed locations in zone -4,-6  duration 1,0013 ms
+10/26/2022 20:42:31: Spawned Fish1 x 1
+10/26/2022 20:42:45: Queue unlock msg:$msg_newmaterial:$item_necktail
+10/26/2022 20:43:45: Setting selected recipe 0
+10/26/2022 20:43:45: UI Group status changed root = True
+10/26/2022 20:43:45: UI Group status changed Player = True
+10/26/2022 20:43:49: Drop item $item_axe_stone
+10/26/2022 20:43:49: drop all 1  1
+10/26/2022 20:43:49: Setting selected recipe 0
+10/26/2022 20:44:05: Setting selected recipe 0
+10/26/2022 20:44:05: UI Group status changed root = True
+10/26/2022 20:44:05: UI Group status changed Player = True
+10/26/2022 20:44:15: Setting selected recipe 0
+10/26/2022 20:44:17: Setting selected recipe 3
+10/26/2022 20:44:24: Drop item $item_axe_stone
+10/26/2022 20:44:24: drop all 1  1
+10/26/2022 20:44:24: Setting selected recipe 3
+10/26/2022 20:44:28: Setting selected recipe 3
+10/26/2022 20:44:29: Setting selected recipe 3
+10/26/2022 20:44:30: Setting selected recipe 3
+10/26/2022 20:45:37: Setting selected recipe 3
+10/26/2022 20:45:37: UI Group status changed root = True
+10/26/2022 20:45:37: UI Group status changed Player = True
+10/26/2022 20:45:55: Setting selected recipe 3
+10/26/2022 20:45:55: UI Group status changed root = True
+10/26/2022 20:45:55: UI Group status changed Player = True
+10/26/2022 20:46:50: Setting selected recipe 3
+10/26/2022 20:46:50: UI Group status changed root = True
+10/26/2022 20:46:50: UI Group status changed Player = True
+10/26/2022 20:46:52: Drop item $item_axe_stone
+10/26/2022 20:46:52: drop all 1  1
+10/26/2022 20:46:52: Setting selected recipe 3
+10/26/2022 20:46:58: Disabling collider_block  blocker
+10/26/2022 20:47:01: Disabling PlayerBase  character_trigger
+10/26/2022 20:47:20: Update PlayFab entity token
+10/26/2022 20:48:10: Placed wood_wall_half
+10/26/2022 20:48:21: Placed wood_wall_half
+10/26/2022 20:48:26: Placed wood_wall_half
+10/26/2022 20:48:35: Setting selected recipe 3
+10/26/2022 20:48:35: UI Group status changed root = True
+10/26/2022 20:48:35: UI Group status changed Player = True
+10/26/2022 20:48:46: Placed woodwall
+10/26/2022 20:48:56: Placed woodwall
+10/26/2022 20:48:58: Placed woodwall
+10/26/2022 20:49:06: Placed woodwall
+10/26/2022 20:49:14: Placed wood_wall_half
+10/26/2022 20:49:34: Placed wood_floor
+10/26/2022 20:49:37: Placed wood_floor
+10/26/2022 20:49:47: Placed wood_floor
+10/26/2022 20:49:51: Placed wood_floor
+10/26/2022 20:50:12: Placed wood_wall_half
+10/26/2022 20:50:15: Placed wood_wall_half
+10/26/2022 20:50:19: Placed wood_wall_half
+10/26/2022 20:50:21: Placed wood_wall_half
+10/26/2022 20:51:14: Placed woodwall
+10/26/2022 20:51:21: Placed woodwall
+10/26/2022 20:51:24: Placed woodwall
+10/26/2022 20:51:37: Placed wood_floor
+10/26/2022 20:51:39: Placed wood_floor
+10/26/2022 20:51:43: Placed wood_floor
+10/26/2022 20:51:47: Placed wood_floor
+10/26/2022 20:51:56: Placed wood_stair
+10/26/2022 20:52:00: Disabling PlayerBase  character_trigger
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3054 unused Assets to reduce memory usage. Loaded Objects now: 1425592.
+Total: 588.926700 ms (FindLiveObjects: 133.775500 ms CreateObjectMapping: 41.744500 ms MarkObjects: 403.872100 ms  DeleteObjects: 9.534000 ms)
+
+10/26/2022 20:52:17: Placed piece_chest_wood
+10/26/2022 20:52:19: Disabling PlayerBase  character_trigger
+10/26/2022 20:52:25: Placed bed
+10/26/2022 20:52:25: Disabling PlayerBase  character_trigger
+10/26/2022 20:52:31: Disabling PlayerBase  character_trigger
+10/26/2022 20:52:37: Placed piece_groundtorch_wood
+10/26/2022 20:52:37: Disabling PlayerBase  character_trigger
+10/26/2022 20:52:37: Disabling PlayerBase  character_trigger
+10/26/2022 20:52:55: Disabling PlayerBase  character_trigger
+10/26/2022 20:53:03: Disabling collider_block  blocker
+10/26/2022 20:53:04: Disabling PlayerBase  character_trigger
+10/26/2022 20:53:19: Placed piece_workbench
+10/26/2022 20:53:19: Disabling PlayerBase  character_trigger
+10/26/2022 20:53:57: Disabling PlayerBase  character_trigger
+10/26/2022 20:55:00: Placed woodwall
+10/26/2022 20:55:08: Placed woodwall
+10/26/2022 20:55:11: Placed woodwall
+10/26/2022 20:55:16: Placed woodwall
+10/26/2022 20:55:21: Placed woodwall
+10/26/2022 20:55:35: Placed wood_wall_half
+10/26/2022 20:55:45: Placed wood_wall_half
+10/26/2022 20:55:56: Placed woodwall
+10/26/2022 20:56:03: Placed wood_wall_half
+10/26/2022 20:56:09: Placed wood_wall_half
+10/26/2022 20:56:11: Setting selected recipe 3
+10/26/2022 20:56:11: UI Group status changed root = True
+10/26/2022 20:56:11: UI Group status changed Player = True
+10/26/2022 20:56:21: Setting selected recipe 3
+10/26/2022 20:56:21: UI Group status changed root = True
+10/26/2022 20:56:21: UI Group status changed Player = True
+10/26/2022 20:56:45: Starting respawn
+10/26/2022 20:56:45: Local player destroyed
+10/26/2022 20:56:45: tip:$loadscreen_tip21
+10/26/2022 20:56:51: Spawned Greyling x 1
+10/26/2022 20:56:55: Stopped music meadows at 4030525
+10/26/2022 20:56:55: Resumed music meadows at 4030525
+10/26/2022 20:57:02: Im still nto the owner
+10/26/2022 20:57:02: Im still nto the owner
+10/26/2022 20:57:02: Im finally the owner
+10/26/2022 20:57:02: Queue unlock msg:$msg_newitem:$item_raspberries
+10/26/2022 20:57:16: Im still nto the owner
+10/26/2022 20:57:16: Im still nto the owner
+10/26/2022 20:57:16: Im still nto the owner
+10/26/2022 20:57:16: Im still nto the owner
+10/26/2022 20:57:16: Im still nto the owner
+10/26/2022 20:57:16: Im finally the owner
+10/26/2022 20:57:20: Setting selected recipe 3
+10/26/2022 20:57:20: UI Group status changed root = True
+10/26/2022 20:57:20: UI Group status changed Player = True
+10/26/2022 20:57:22: Setting selected recipe 3
+10/26/2022 20:57:22: UI Group status changed root = True
+10/26/2022 20:57:22: UI Group status changed Player = True
+10/26/2022 20:57:25: Setting selected recipe 0
+10/26/2022 20:57:28: Setting selected recipe 0
+10/26/2022 20:57:28: UI Group status changed root = True
+10/26/2022 20:57:28: UI Group status changed Player = True
+10/26/2022 20:57:29: Setting selected recipe 1
+10/26/2022 20:57:30: Setting selected recipe 2
+10/26/2022 20:57:33: Setting selected recipe 3
+10/26/2022 20:58:15: Spawned Greyling x 1
+10/26/2022 20:58:23: Setting selected recipe 3
+10/26/2022 20:58:23: UI Group status changed root = True
+10/26/2022 20:58:23: UI Group status changed Player = True
+10/26/2022 20:58:27: Setting selected recipe 1
+10/26/2022 20:58:44: Im still nto the owner
+10/26/2022 20:58:44: Im still nto the owner
+10/26/2022 20:58:44: Im still nto the owner
+10/26/2022 20:58:44: Im finally the owner
+10/26/2022 20:59:10: Setting selected recipe 0
+10/26/2022 20:59:10: UI Group status changed root = True
+10/26/2022 20:59:10: UI Group status changed Player = True
+10/26/2022 20:59:18: Setting selected recipe 0
+10/26/2022 20:59:19: Setting selected recipe 1
+10/26/2022 20:59:33: Setting selected recipe 2
+10/26/2022 20:59:33: UI Group status changed root = True
+10/26/2022 20:59:33: UI Group status changed Player = True
+10/26/2022 20:59:35: Setting selected recipe 0
+10/26/2022 20:59:38: Setting selected recipe 3
+10/26/2022 20:59:47: Setting selected recipe 3
+10/26/2022 20:59:47: UI Group status changed root = True
+10/26/2022 20:59:47: UI Group status changed Player = True
+10/26/2022 20:59:49: Setting selected recipe 1
+10/26/2022 20:59:54: Setting selected recipe 2
+10/26/2022 20:59:55: Setting selected recipe 0
+10/26/2022 20:59:58: Setting selected recipe 1
+10/26/2022 21:00:32: Grave should fit in inventory, loot all
+10/26/2022 21:00:32: Player 1231730949 wants to takeall from Player_tombstone(Clone)   im: 1231730949
+10/26/2022 21:00:38: Update PlayFab entity token
+10/26/2022 21:00:58: Setting selected recipe 1
+10/26/2022 21:00:58: UI Group status changed root = True
+10/26/2022 21:00:58: UI Group status changed Player = True
+10/26/2022 21:01:08: Disabling PlayerBase  character_trigger
+10/26/2022 21:01:11: Placed fire_pit
+10/26/2022 21:01:11: Disabling PlayerBase  character_trigger
+10/26/2022 21:01:11: Disabling PlayerBase  character_trigger
+10/26/2022 21:01:40: Disabling PlayerBase  character_trigger
+10/26/2022 21:01:51: Placed wood_wall_half
+10/26/2022 21:02:01: Uncompressed size 8388695
+10/26/2022 21:02:01: Compressed size 8514
+10/26/2022 21:02:01: Cloud Save: 11682 bytes. /characters/dee.fch.new
+10/26/2022 21:02:01: Steam writing file chunks 1 / 1, (11682 bytes)
+10/26/2022 21:02:01: Steam Cloud Move: 10075 bytes. /characters/dee.fch -> /characters/dee.fch.old
+10/26/2022 21:02:01: Steam writing file chunks 1 / 1, (10075 bytes)
+10/26/2022 21:02:01: Steam Cloud Move: 11682 bytes. /characters/dee.fch.new -> /characters/dee.fch
+10/26/2022 21:02:01: Steam writing file chunks 1 / 1, (11682 bytes)
+10/26/2022 21:02:01: Considering autobackup. World time: 1799,96, short time: 7200, long time: 43200, backup count: 4
+10/26/2022 21:02:01: No autobackup needed yet...
+10/26/2022 21:02:02: clone 110
+10/26/2022 21:02:02: World save writing starting
+10/26/2022 21:02:02: World save writing started
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+10/26/2022 21:02:02: Saved 46205 zdos
+10/26/2022 21:02:02: World save writing finishing
+10/26/2022 21:02:02: Cloud Save: 5225786 bytes. /worlds/Covan.db
+10/26/2022 21:02:02: Steam writing file chunks 1 / 1, (5225786 bytes)
+10/26/2022 21:02:02: World save writing finished
+10/26/2022 21:02:02: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+10/26/2022 21:02:02: Steam writing file chunks 1 / 1, (39 bytes)
+10/26/2022 21:02:02: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+10/26/2022 21:02:02: Steam writing file chunks 1 / 1, (39 bytes)
+10/26/2022 21:02:02: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+10/26/2022 21:02:02: Steam writing file chunks 1 / 1, (39 bytes)
+10/26/2022 21:02:02: Considering autobackup. World time: 1800, short time: 7200, long time: 43200, backup count: 4
+10/26/2022 21:02:02: No autobackup needed yet...
+10/26/2022 21:02:02: World saved ( 661,7859ms )
+10/26/2022 21:02:02: Considering autobackup. World time: 1800, short time: 7200, long time: 43200, backup count: 4
+10/26/2022 21:02:02: Creating first autobackup
+10/26/2022 21:02:02: Saving backup at: \worlds\Covan_backup_auto-20221026210202.db
+10/26/2022 21:02:02: Cloud Copy: 5225786 bytes. /worlds/Covan.db -> \worlds\Covan_backup_auto-20221026210202.db
+
+Unloading 6281 unused Assets to reduce memory usage. Loaded Objects now: 1427112.
+Total: 675.589400 ms (FindLiveObjects: 187.004300 ms CreateObjectMapping: 59.108200 ms MarkObjects: 403.223500 ms  DeleteObjects: 26.252900 ms)
+
+10/26/2022 21:02:02: Steam writing file chunks 1 / 1, (5225786 bytes)
+10/26/2022 21:02:02: World auto backup saved ( 00:00:00.1259611ms )
+10/26/2022 21:02:38: Setting selected recipe 1
+10/26/2022 21:02:39: UI Group status changed root = True
+10/26/2022 21:02:39: UI Group status changed Player = True
+10/26/2022 21:02:49: Setting selected recipe 1
+10/26/2022 21:02:49: UI Group status changed root = True
+10/26/2022 21:02:49: UI Group status changed Player = True
+10/26/2022 21:03:03: Setting selected recipe 1
+10/26/2022 21:03:03: UI Group status changed root = True
+10/26/2022 21:03:03: UI Group status changed Player = True
+10/26/2022 21:03:05: Drop item $item_axe_stone
+10/26/2022 21:03:05: drop all 1  1
+10/26/2022 21:03:05: Setting selected recipe 1
+10/26/2022 21:03:18: Placed wood_wall_half
+10/26/2022 21:03:22: Placed wood_wall_half
+10/26/2022 21:03:44: Placed woodwall
+10/26/2022 21:03:49: Placed wood_wall_half
+10/26/2022 21:03:53: Placed wood_wall_half
+10/26/2022 21:04:22: Placed wood_wall_roof_45
+10/26/2022 21:04:31: Placed wood_wall_roof_45
+10/26/2022 21:04:49: Placed wood_wall_roof_45
+10/26/2022 21:04:56: Placed wood_wall_roof_45
+10/26/2022 21:05:40: Placed wood_roof_top_45
+10/26/2022 21:05:42: Placed wood_roof_top_45
+10/26/2022 21:05:55: Disabling PlayerBase  character_trigger
+10/26/2022 21:06:29: Spawned Neck x 2
+10/26/2022 21:06:29: Spawned Greyling x 1
+10/26/2022 21:06:29: Im still nto the owner
+10/26/2022 21:06:29: Im still nto the owner
+10/26/2022 21:06:29: Im still nto the owner
+10/26/2022 21:06:29: Im still nto the owner
+10/26/2022 21:06:30: Im still nto the owner
+10/26/2022 21:06:30: Im finally the owner
+10/26/2022 21:06:41: Disabling PlayerBase  character_trigger
+10/26/2022 21:06:58: Placed wood_roof_top_45
+10/26/2022 21:07:00: Stopped music meadows at 1606291
+10/26/2022 21:07:01: Placed wood_roof_top_45
+10/26/2022 21:07:06: Stopped music home at 252134
+10/26/2022 21:07:06: Resumed music meadows at 1606291
+10/26/2022 21:07:35: Queue unlock msg:$msg_newmaterial:$item_coal
+10/26/2022 21:07:35: Queue unlock msg:$msg_newpiece:$piece_coalpile
+10/26/2022 21:07:35: Queue unlock msg:$msg_newpiece:$piece_sign
+10/26/2022 21:07:50: Update PlayFab entity token
+10/26/2022 21:07:58: Placed wood_roof_45
+10/26/2022 21:08:04: Placed wood_roof_45
+10/26/2022 21:08:07: Placed wood_roof_45
+10/26/2022 21:08:11: Placed wood_roof_45
+10/26/2022 21:08:30: Stopped music meadows at 5329977
+10/26/2022 21:09:14: Placed wood_roof_45
+10/26/2022 21:09:23: Placed wood_roof_45
+10/26/2022 21:09:26: Placed wood_roof_45
+10/26/2022 21:09:29: Placed wood_roof_45
+10/26/2022 21:09:43: Has no creator
+10/26/2022 21:09:43: exporeusre check 0,8823529  True
+10/26/2022 21:09:45: Is mine
+10/26/2022 21:09:45: is current spawnpoint
+10/26/2022 21:09:45: exporeusre check 0,8823529  True
+10/26/2022 21:09:45: Ignoring 2 colliders
+10/26/2022 21:09:45: Resumed music home at 252134
+10/26/2022 21:09:46: Time 5208,03992918879, day:2    nextm:5670,00001072884  skipspeed:38,4966734616707
+10/26/2022 21:09:48: Spawned Greyling x 1
+10/26/2022 21:09:58: Uncompressed size 8388695
+10/26/2022 21:09:58: Compressed size 8514
+10/26/2022 21:09:58: Cloud Save: 11654 bytes. /characters/dee.fch.new
+10/26/2022 21:09:58: Steam writing file chunks 1 / 1, (11654 bytes)
+10/26/2022 21:09:58: Steam Cloud Move: 11682 bytes. /characters/dee.fch -> /characters/dee.fch.old
+10/26/2022 21:09:58: Steam writing file chunks 1 / 1, (11682 bytes)
+10/26/2022 21:09:58: Steam Cloud Move: 11654 bytes. /characters/dee.fch.new -> /characters/dee.fch
+10/26/2022 21:09:58: Steam writing file chunks 1 / 1, (11654 bytes)
+10/26/2022 21:09:58: Considering autobackup. World time: 2275,98, short time: 7200, long time: 43200, backup count: 4
+10/26/2022 21:09:58: No autobackup needed yet...
+10/26/2022 21:09:58: clone 43
+10/26/2022 21:09:58: World save writing starting
+10/26/2022 21:09:58: World save writing started
+10/26/2022 21:09:59: Saved 46222 zdos
+10/26/2022 21:09:59: World save writing finishing
+10/26/2022 21:09:59: Cloud Save: 5241013 bytes. /worlds/Covan.db
+10/26/2022 21:09:59: Steam writing file chunks 1 / 1, (5241013 bytes)
+10/26/2022 21:09:59: World save writing finished
+10/26/2022 21:09:59: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+10/26/2022 21:09:59: Steam writing file chunks 1 / 1, (39 bytes)
+10/26/2022 21:09:59: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+10/26/2022 21:09:59: Steam writing file chunks 1 / 1, (39 bytes)
+10/26/2022 21:09:59: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+10/26/2022 21:09:59: Steam writing file chunks 1 / 1, (39 bytes)
+10/26/2022 21:09:59: Considering autobackup. World time: 2276,56, short time: 7200, long time: 43200, backup count: 4
+10/26/2022 21:09:59: No autobackup needed yet...
+10/26/2022 21:09:59: World saved ( 399,7084ms )
+10/26/2022 21:09:59: Considering autobackup. World time: 2276,56, short time: 7200, long time: 43200, backup count: 4
+10/26/2022 21:09:59: No autobackup needed yet...
+10/26/2022 21:10:06: Stopped music home at 1169413
+10/26/2022 21:10:25: Setting selected recipe 7
+10/26/2022 21:10:25: UI Group status changed root = True
+10/26/2022 21:10:25: UI Group status changed Player = True
+10/26/2022 21:10:27: Setting selected recipe 1
+10/26/2022 21:10:32: Setting selected recipe 3
+10/26/2022 21:10:35: Setting selected recipe 6
+10/26/2022 21:10:40: Resumed music meadows at 5329977
+10/26/2022 21:10:47: Setting selected recipe 9
+10/26/2022 21:10:57: Setting selected recipe 11
+10/26/2022 21:11:07: Stopped music meadows at 6544549
+10/26/2022 21:11:07: Resumed music meadows at 6544549
+10/26/2022 21:11:24: Spawned Neck x 2
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 7013 unused Assets to reduce memory usage. Loaded Objects now: 1421553.
+Total: 560.592500 ms (FindLiveObjects: 121.991900 ms CreateObjectMapping: 27.324300 ms MarkObjects: 391.872000 ms  DeleteObjects: 19.403800 ms)
+
+10/26/2022 21:12:25: Spawned Fish1 x 3
+10/26/2022 21:12:25: Spawned Fish1 x 1
+10/26/2022 21:12:25: Spawned Fish2 x 1
+10/26/2022 21:13:09: Im still nto the owner
+10/26/2022 21:13:09: Im finally the owner
+10/26/2022 21:13:09: Im finally the owner
+10/26/2022 21:13:10: Im still nto the owner
+10/26/2022 21:13:10: Im still nto the owner
+10/26/2022 21:13:10: Im still nto the owner
+10/26/2022 21:13:10: Im still nto the owner
+10/26/2022 21:13:10: Im still nto the owner
+10/26/2022 21:13:10: Im finally the owner
+10/26/2022 21:14:02: Setting selected recipe 0
+10/26/2022 21:14:03: UI Group status changed root = True
+10/26/2022 21:14:03: UI Group status changed Player = True
+10/26/2022 21:14:05: Drop item $item_axe_stone
+10/26/2022 21:14:05: drop all 1  1
+10/26/2022 21:14:05: Setting selected recipe 0
+10/26/2022 21:14:08: Setting selected recipe 0
+10/26/2022 21:14:11: Setting selected recipe 0
+10/26/2022 21:14:48: Setting selected recipe 0
+10/26/2022 21:14:48: UI Group status changed root = True
+10/26/2022 21:14:48: UI Group status changed Player = True
+10/26/2022 21:15:15: Force generaeting hmap (320.0, 0.0, -64.0)
+10/26/2022 21:15:15: Placed locations in zone 7,-3  duration 8,9961 ms
+10/26/2022 21:15:15: Placed locations in zone 7,-2  duration 0 ms
+10/26/2022 21:15:15: Spawned Boar x 3
+10/26/2022 21:15:15: Spawned Greyling x 1
+10/26/2022 21:15:15: Placed locations in zone 7,-1  duration 2,9989 ms
+10/26/2022 21:15:15: Placed locations in zone 7,0  duration 9,9976 ms
+10/26/2022 21:15:15: Valid True
+10/26/2022 21:15:15: On death False
+10/26/2022 21:15:20: Im still nto the owner
+10/26/2022 21:15:20: Im still nto the owner
+10/26/2022 21:15:21: Im still nto the owner
+10/26/2022 21:15:21: Im still nto the owner
+10/26/2022 21:15:21: Im finally the owner
+10/26/2022 21:15:22: Im still nto the owner
+10/26/2022 21:15:22: Im still nto the owner
+10/26/2022 21:15:22: Im still nto the owner
+10/26/2022 21:15:22: Im still nto the owner
+10/26/2022 21:15:22: Im finally the owner
+10/26/2022 21:15:50: Spawned Greyling x 1
+10/26/2022 21:16:40: Im still nto the owner
+10/26/2022 21:16:40: Im still nto the owner
+10/26/2022 21:16:40: Im still nto the owner
+10/26/2022 21:16:40: Im still nto the owner
+10/26/2022 21:16:40: Im still nto the owner
+10/26/2022 21:16:40: Im finally the owner
+10/26/2022 21:16:42: Spawned Neck x 1
+10/26/2022 21:17:03: UI Group status changed MenuRoot = True
+10/26/2022 21:17:05: Current res 1920x1080     1920x1080
+10/26/2022 21:17:05: UI Group status changed MenuRoot = False
+10/26/2022 21:17:05: FOund selected Settings
+10/26/2022 21:17:17: FOund selected Ok
+10/26/2022 21:17:17: UI Group status changed MenuRoot = True
+10/26/2022 21:17:26: Im still nto the owner
+10/26/2022 21:17:26: Im still nto the owner
+10/26/2022 21:17:26: Im still nto the owner
+10/26/2022 21:17:26: Im finally the owner
+10/26/2022 21:17:27: Im still nto the owner
+10/26/2022 21:17:27: Im still nto the owner
+10/26/2022 21:17:27: Im still nto the owner
+10/26/2022 21:17:28: Im still nto the owner
+10/26/2022 21:17:28: Im still nto the owner
+10/26/2022 21:17:28: Im still nto the owner
+10/26/2022 21:17:28: Im finally the owner
+10/26/2022 21:17:29: Im still nto the owner
+10/26/2022 21:17:29: Im finally the owner
+10/26/2022 21:17:30: Setting selected recipe 0
+10/26/2022 21:17:30: UI Group status changed root = True
+10/26/2022 21:17:30: UI Group status changed Player = True
+10/26/2022 21:17:52: Force generaeting hmap (64.0, 0.0, -384.0)
+10/26/2022 21:17:52: Placed locations in zone -3,-8  duration 6,9974 ms
+10/26/2022 21:17:53: Spawned Deer x 1
+10/26/2022 21:17:53: Spawned Greyling x 1
+10/26/2022 21:17:57: Update PlayFab entity token
+10/26/2022 21:18:13: Im still nto the owner
+10/26/2022 21:18:13: Im still nto the owner
+10/26/2022 21:18:13: Im still nto the owner
+10/26/2022 21:18:13: Im still nto the owner
+10/26/2022 21:18:13: Im still nto the owner
+10/26/2022 21:18:13: Im finally the owner
+10/26/2022 21:18:20: Spawned Fish2 x 3
+10/26/2022 21:18:43: Setting selected recipe 0
+10/26/2022 21:18:43: UI Group status changed root = True
+10/26/2022 21:18:43: UI Group status changed Player = True
+10/26/2022 21:19:06: Disabling PlayerBase  character_trigger
+10/26/2022 21:19:36: UI Group status changed MenuRoot = True
+10/26/2022 21:19:37: Current res 1920x1080     1920x1080
+10/26/2022 21:19:37: UI Group status changed MenuRoot = False
+10/26/2022 21:19:37: FOund selected Settings
+10/26/2022 21:19:42: UI Group status changed Misc = True
+10/26/2022 21:19:43: Current res 1920x1080     1920x1080
+10/26/2022 21:19:43: UI Group status changed MenuRoot = True
+10/26/2022 21:20:02: Setting selected recipe 0
+10/26/2022 21:20:02: UI Group status changed root = True
+10/26/2022 21:20:02: UI Group status changed Player = True
+10/26/2022 21:20:43: Setting selected recipe 0
+10/26/2022 21:20:43: UI Group status changed root = True
+10/26/2022 21:20:43: UI Group status changed Player = True
+10/26/2022 21:20:51: Drop item $item_wood
+10/26/2022 21:20:51: drop all 50  50
+10/26/2022 21:20:51: Setting selected recipe 0
+10/26/2022 21:21:20: Im still nto the owner
+10/26/2022 21:21:20: Im still nto the owner
+10/26/2022 21:21:20: Im still nto the owner
+10/26/2022 21:21:20: Im still nto the owner
+10/26/2022 21:21:20: Im finally the owner
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 797 unused Assets to reduce memory usage. Loaded Objects now: 1429155.
+Total: 542.441800 ms (FindLiveObjects: 103.908200 ms CreateObjectMapping: 26.213600 ms MarkObjects: 409.482600 ms  DeleteObjects: 2.836900 ms)
+
+10/26/2022 21:22:29: Disabling PlayerBase  character_trigger
+10/26/2022 21:22:33: Disabling PlayerBase  character_trigger
+10/26/2022 21:22:35: Disabling PlayerBase  character_trigger
+10/26/2022 21:22:48: Placed wood_stack
+10/26/2022 21:22:50: Setting selected recipe 1
+10/26/2022 21:22:51: UI Group status changed root = True
+10/26/2022 21:22:51: UI Group status changed Player = True
+10/26/2022 21:23:18: Im finally the owner
+10/26/2022 21:23:20: Setting selected recipe 2
+10/26/2022 21:23:20: UI Group status changed root = True
+10/26/2022 21:23:20: UI Group status changed Player = True
+10/26/2022 21:23:36: Spawned Greyling x 1
+10/26/2022 21:23:37: Im still nto the owner
+10/26/2022 21:23:37: Im still nto the owner
+10/26/2022 21:23:37: Im still nto the owner
+10/26/2022 21:23:37: Im still nto the owner
+10/26/2022 21:23:37: Im still nto the owner
+10/26/2022 21:23:37: Im finally the owner
+10/26/2022 21:23:46: Spawned Deer x 1
+10/26/2022 21:23:46: Spawned Greyling x 1
+10/26/2022 21:23:47: Im still nto the owner
+10/26/2022 21:23:47: Im still nto the owner
+10/26/2022 21:23:47: Im still nto the owner
+10/26/2022 21:23:47: Im still nto the owner
+10/26/2022 21:23:47: Im finally the owner
+10/26/2022 21:24:00: Im still nto the owner
+10/26/2022 21:24:00: Im still nto the owner
+10/26/2022 21:24:00: Im still nto the owner
+10/26/2022 21:24:00: Im still nto the owner
+10/26/2022 21:24:00: Im still nto the owner
+10/26/2022 21:24:00: Im finally the owner
+10/26/2022 21:24:10: Im still nto the owner
+10/26/2022 21:24:10: Im still nto the owner
+10/26/2022 21:24:10: Im still nto the owner
+10/26/2022 21:24:10: Im still nto the owner
+10/26/2022 21:24:10: Im finally the owner
+10/26/2022 21:24:14: Im still nto the owner
+10/26/2022 21:24:14: Im still nto the owner
+10/26/2022 21:24:14: Im still nto the owner
+10/26/2022 21:24:14: Im still nto the owner
+10/26/2022 21:24:14: Im still nto the owner
+10/26/2022 21:24:14: Im finally the owner
+10/26/2022 21:24:29: Im still nto the owner
+10/26/2022 21:24:29: Im still nto the owner
+10/26/2022 21:24:29: Im still nto the owner
+10/26/2022 21:24:29: Im still nto the owner
+10/26/2022 21:24:29: Im still nto the owner
+10/26/2022 21:24:29: Im finally the owner
+10/26/2022 21:24:43: Setting selected recipe 0
+10/26/2022 21:24:43: UI Group status changed root = True
+10/26/2022 21:24:43: UI Group status changed Player = True
+10/26/2022 21:25:15: Queue unlock msg:$msg_newtrophy:$item_trophy_neck
+10/26/2022 21:25:52: Disabling PlayerBase  character_trigger
+10/26/2022 21:26:02: Placed piece_groundtorch_wood
+10/26/2022 21:26:02: Disabling PlayerBase  character_trigger
+10/26/2022 21:26:02: Disabling PlayerBase  character_trigger
+10/26/2022 21:26:48: Disabling PlayerBase  character_trigger
+10/26/2022 21:27:04: Placed wood_stack
+10/26/2022 21:27:06: Spawned Neck x 4
+10/26/2022 21:27:29: Placed wood_stack
+10/26/2022 21:27:45: Setting selected recipe 5
+10/26/2022 21:27:45: UI Group status changed root = True
+10/26/2022 21:27:45: UI Group status changed Player = True
+10/26/2022 21:27:49: Setting selected recipe 0
+10/26/2022 21:27:53: Queue unlock msg:$msg_newitem:$item_helmet_midsummercrown
+10/26/2022 21:27:53: Setting selected recipe 8
+10/26/2022 21:27:59: Setting selected recipe 0
+10/26/2022 21:28:02: Setting selected recipe 5
+10/26/2022 21:28:17: Is mine
+10/26/2022 21:28:17: is current spawnpoint
+10/26/2022 21:28:17: exporeusre check 0,8823529  True
+10/26/2022 21:28:17: Ignoring 2 colliders
+10/26/2022 21:28:18: Time 6744,27998671681, day:3    nextm:7470,00001072884  skipspeed:60,4766686676691
+10/26/2022 21:28:31: Uncompressed size 8388695
+10/26/2022 21:28:31: Compressed size 8523
+10/26/2022 21:28:31: Cloud Save: 11930 bytes. /characters/dee.fch.new
+10/26/2022 21:28:31: Steam writing file chunks 1 / 1, (11930 bytes)
+10/26/2022 21:28:31: Steam Cloud Move: 11654 bytes. /characters/dee.fch -> /characters/dee.fch.old
+10/26/2022 21:28:31: Steam writing file chunks 1 / 1, (11654 bytes)
+10/26/2022 21:28:31: Steam Cloud Move: 11930 bytes. /characters/dee.fch.new -> /characters/dee.fch
+10/26/2022 21:28:31: Steam writing file chunks 1 / 1, (11930 bytes)
+10/26/2022 21:28:31: Considering autobackup. World time: 3362, short time: 7200, long time: 43200, backup count: 4
+10/26/2022 21:28:31: No autobackup needed yet...
+10/26/2022 21:28:31: clone 118
+10/26/2022 21:28:31: World save writing starting
+10/26/2022 21:28:31: World save writing started
+10/26/2022 21:28:31: Saved 48952 zdos
+10/26/2022 21:28:31: World save writing finishing
+10/26/2022 21:28:31: Cloud Save: 5583359 bytes. /worlds/Covan.db
+10/26/2022 21:28:31: Steam writing file chunks 1 / 1, (5583359 bytes)
+10/26/2022 21:28:31: World save writing finished
+10/26/2022 21:28:31: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+10/26/2022 21:28:31: Steam writing file chunks 1 / 1, (39 bytes)
+10/26/2022 21:28:31: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+10/26/2022 21:28:31: Steam writing file chunks 1 / 1, (39 bytes)
+10/26/2022 21:28:31: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+10/26/2022 21:28:31: Steam writing file chunks 1 / 1, (39 bytes)
+10/26/2022 21:28:31: Considering autobackup. World time: 3362,42, short time: 7200, long time: 43200, backup count: 4
+10/26/2022 21:28:31: No autobackup needed yet...
+10/26/2022 21:28:31: World saved ( 322,9632ms )
+10/26/2022 21:28:31: Considering autobackup. World time: 3362,42, short time: 7200, long time: 43200, backup count: 4
+10/26/2022 21:28:31: No autobackup needed yet...
+10/26/2022 21:29:22: Im still nto the owner
+10/26/2022 21:29:22: Im still nto the owner
+10/26/2022 21:29:22: Im still nto the owner
+10/26/2022 21:29:22: Im finally the owner
+10/26/2022 21:29:33: Spawned Greyling x 1
+10/26/2022 21:29:59: Update PlayFab entity token
+10/26/2022 21:30:44: Spawned Deer x 1
+10/26/2022 21:30:44: Spawned Deer x 1
+10/26/2022 21:31:21: Setting selected recipe 0
+10/26/2022 21:31:21: UI Group status changed root = True
+10/26/2022 21:31:21: UI Group status changed Player = True
+10/26/2022 21:31:52: Setting selected recipe 2
+10/26/2022 21:31:52: UI Group status changed root = True
+10/26/2022 21:31:52: UI Group status changed Player = True
+10/26/2022 21:31:58: Setting selected recipe 6
+10/26/2022 21:32:06: Setting selected recipe 11
+10/26/2022 21:32:08: Setting selected recipe 6
+10/26/2022 21:32:09: Setting selected recipe 7
+10/26/2022 21:32:16: Queue unlock msg:$msg_newitem:$item_spear_flint
+10/26/2022 21:32:16: Setting selected recipe 14
+10/26/2022 21:32:26: Item is not in this container
+10/26/2022 21:32:26: Setting selected recipe 14
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1059 unused Assets to reduce memory usage. Loaded Objects now: 1429843.
+Total: 555.601000 ms (FindLiveObjects: 126.169100 ms CreateObjectMapping: 26.174000 ms MarkObjects: 399.362600 ms  DeleteObjects: 3.894900 ms)
+
+10/26/2022 21:32:30: Item is not in this container
+10/26/2022 21:32:30: Setting selected recipe 14
+10/26/2022 21:32:33: Setting selected recipe 14
+10/26/2022 21:32:34: Setting selected recipe 14
+10/26/2022 21:32:42: Setting selected recipe 11
+10/26/2022 21:32:47: Setting selected recipe 14
+10/26/2022 21:32:50: Setting selected recipe 9
+10/26/2022 21:33:22: UI Group status changed MenuRoot = True
+10/26/2022 21:33:24: UI Group status changed MenuRoot = False
+10/26/2022 21:33:25: Game - OnApplicationQuit
+10/26/2022 21:33:25: Shuting down
+10/26/2022 21:33:25: Uncompressed size 8388695
+10/26/2022 21:33:25: Compressed size 8523
+10/26/2022 21:33:25: Cloud Save: 12047 bytes. /characters/dee.fch.new
+10/26/2022 21:33:25: Steam writing file chunks 1 / 1, (12047 bytes)
+10/26/2022 21:33:25: Steam Cloud Move: 11930 bytes. /characters/dee.fch -> /characters/dee.fch.old
+10/26/2022 21:33:25: Steam writing file chunks 1 / 1, (11930 bytes)
+10/26/2022 21:33:25: Steam Cloud Move: 12047 bytes. /characters/dee.fch.new -> /characters/dee.fch
+10/26/2022 21:33:26: Steam writing file chunks 1 / 1, (12047 bytes)
+10/26/2022 21:33:26: Considering autobackup. World time: 3653,12, short time: 7200, long time: 43200, backup count: 4
+10/26/2022 21:33:26: No autobackup needed yet...
+10/26/2022 21:33:26: ZNet Shutdown
+10/26/2022 21:33:26: clone 46
+10/26/2022 21:33:26: World save writing starting
+10/26/2022 21:33:26: World save writing started
+10/26/2022 21:33:26: Saved 48940 zdos
+10/26/2022 21:33:26: World save writing finishing
+10/26/2022 21:33:26: Cloud Save: 5594035 bytes. /worlds/Covan.db
+10/26/2022 21:33:26: Steam writing file chunks 1 / 1, (5594035 bytes)
+10/26/2022 21:33:26: World save writing finished
+10/26/2022 21:33:26: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+10/26/2022 21:33:26: Steam writing file chunks 1 / 1, (39 bytes)
+10/26/2022 21:33:26: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+10/26/2022 21:33:26: Steam writing file chunks 1 / 1, (39 bytes)
+10/26/2022 21:33:26: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+10/26/2022 21:33:26: Steam writing file chunks 1 / 1, (39 bytes)
+10/26/2022 21:33:26: Considering autobackup. World time: 3653,12, short time: 7200, long time: 43200, backup count: 4
+10/26/2022 21:33:26: No autobackup needed yet...
+10/26/2022 21:33:26: World saved ( 293,1037ms )
+10/26/2022 21:33:26: Considering autobackup. World time: 3653,12, short time: 7200, long time: 43200, backup count: 4
+10/26/2022 21:33:26: No autobackup needed yet...
+10/26/2022 21:33:26: Sending disconnect msg
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1e28 -> priority: 1 
+  Thread -> id: 240c -> priority: 1 
+10/26/2022 21:33:28: Steam manager on destroy
+10/26/2022 21:33:28: Local player destroyed
+10/26/2022 21:33:29: FOund selected Button_yes
+10/26/2022 21:33:29: ZNet OnDestroy
+10/26/2022 21:33:29: Net scene destroyed
